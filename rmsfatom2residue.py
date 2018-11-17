@@ -1,5 +1,7 @@
 #!/usr/bin/env python
-# This program extracts the atomic information from the rms fluctuations from the two largest eigenvectors obtained from Principal Component Analysis (PCA) and traces those atoms back from the Protein atomic coordinates to give us the amino acid residues involved in essential dynamics. (Soumya Deep Chatterjee, Leiden University)
+# This program extracts the atomic information from the rms fluctuations from the two largest eigenvectors obtained from 
+# Principal Component Analysis (PCA) and traces those atoms back from the Protein atomic coordinates to give us the amino acid 
+#residues involved in essential dynamics. (Soumya Deep Chatterjee, Leiden University)
 
 # Insert the following information 
 rmsffile='eigrmsf.xvg'
